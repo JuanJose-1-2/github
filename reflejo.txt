@@ -1,0 +1,1 @@
+para reflejar archivos desde el bash se necesita conecion a internet y tener enlazada la carpeta de github
